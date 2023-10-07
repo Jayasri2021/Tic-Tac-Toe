@@ -1,4 +1,3 @@
-# game.py
 import pygame
 import sys
 from board import board, BOARD_COLS, SQUARE_SIZE
